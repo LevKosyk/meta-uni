@@ -1,0 +1,14 @@
+/Users/levkos/Documents/meta-uni/lesson1/task4/bin/Debug/net10.0/task4
+/Users/levkos/Documents/meta-uni/lesson1/task4/bin/Debug/net10.0/task4.deps.json
+/Users/levkos/Documents/meta-uni/lesson1/task4/bin/Debug/net10.0/task4.runtimeconfig.json
+/Users/levkos/Documents/meta-uni/lesson1/task4/bin/Debug/net10.0/task4.dll
+/Users/levkos/Documents/meta-uni/lesson1/task4/bin/Debug/net10.0/task4.pdb
+/Users/levkos/Documents/meta-uni/lesson1/task4/obj/Debug/net10.0/task4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levkos/Documents/meta-uni/lesson1/task4/obj/Debug/net10.0/task4.AssemblyInfoInputs.cache
+/Users/levkos/Documents/meta-uni/lesson1/task4/obj/Debug/net10.0/task4.AssemblyInfo.cs
+/Users/levkos/Documents/meta-uni/lesson1/task4/obj/Debug/net10.0/task4.csproj.CoreCompileInputs.cache
+/Users/levkos/Documents/meta-uni/lesson1/task4/obj/Debug/net10.0/task4.dll
+/Users/levkos/Documents/meta-uni/lesson1/task4/obj/Debug/net10.0/refint/task4.dll
+/Users/levkos/Documents/meta-uni/lesson1/task4/obj/Debug/net10.0/task4.pdb
+/Users/levkos/Documents/meta-uni/lesson1/task4/obj/Debug/net10.0/task4.genruntimeconfig.cache
+/Users/levkos/Documents/meta-uni/lesson1/task4/obj/Debug/net10.0/ref/task4.dll
