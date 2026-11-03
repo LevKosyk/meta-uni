@@ -1,0 +1,5 @@
+# Шаблон конфігурації
+AppName = Shop
+LogLevel = Warning
+MaxConnections = 50
+CacheSeconds = 300
