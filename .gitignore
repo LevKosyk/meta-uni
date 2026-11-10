@@ -1,0 +1,15 @@
+.DS_Store
+
+.idea/
+.vscode/
+.vs/
+*.user
+*.suo
+*.DotSettings.user
+
+bin/
+obj/
+
+TestResults/
+*.trx
+coverage*.xml
