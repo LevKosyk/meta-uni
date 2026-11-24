@@ -13,3 +13,6 @@ obj/
 TestResults/
 *.trx
 coverage*.xml
+
+node_modules/
+dist/
